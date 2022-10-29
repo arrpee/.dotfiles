@@ -5,5 +5,8 @@
     "editor.minimap.enabled": false,
     "terminal.integrated.fontSize": 14,
     "terminal.integrated.tabs.hideCondition": "never",
-    "terminal.integrated.persistentSessionReviveProcess": "never"
+    "terminal.integrated.persistentSessionReviveProcess": "never",
+    "explorer.confirmDelete": false,
+    "git.confirmSync": false,
+    "git.autofetch": true
 }
