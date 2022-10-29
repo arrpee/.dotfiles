@@ -73,6 +73,7 @@ ZSH_CUSTOM=~/.dotfiles/zsh
 plugins=(
     git
     zsh-autosuggestions
+    zsh-syntax-highlighting
 )
 
 # zsh-autosuggestions
