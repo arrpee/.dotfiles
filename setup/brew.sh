@@ -17,6 +17,7 @@ export HOMEBREW_NO_ANALYTICS=1
 echo "Installing Homebrew packages..."
 # cli tools
 brew install bat                        # cat with syntax highlighting and Git integration
+brew install exa                        # modern replacement for ls
 brew install fzf                        # command-line fuzzy finder
 $(brew --prefix)/opt/fzf/install --all  # fzf keybindings and fuzzy completion
 brew install ripgrep                    # faster version of grep with more features
