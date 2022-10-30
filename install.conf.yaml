@@ -10,4 +10,12 @@
     ~/Library/Application Support/Code/User/settings.json : code/settings.json
 
 - shell:
-  - [git submodule update --init --recursive, Installing submodules]
+  - command: setup/brew.sh
+    description: Installing homebrew packages
+    stdout: false
+  - command: setup/vscode-extensions.sh
+    description: Installing Visual Studio Code extensions
+    stdout: false
+  - command: git submodule update --init --recursive
+    description: Installing git submodules
+    stdout: false
