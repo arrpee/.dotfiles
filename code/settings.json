@@ -13,5 +13,9 @@
     "terminal.integrated.shellIntegration.decorationsEnabled": "never",
     "workbench.iconTheme": "material-icon-theme",
     "editor.formatOnSave": true,
-    "workbench.colorTheme": "Arrpee"
+    "workbench.colorTheme": "Arrpee",
+    "gitlens.codeLens.enabled": false,
+    "projectManager.git.baseFolders": [
+        "~/Projects"
+    ]
 }
