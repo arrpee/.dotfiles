@@ -11,5 +11,6 @@
     "git.autofetch": true,
     "workbench.startupEditor": "none",
     "terminal.integrated.shellIntegration.decorationsEnabled": "never",
-    "workbench.iconTheme": "material-icon-theme"
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.formatOnSave": true
 }
