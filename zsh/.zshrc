@@ -77,19 +77,12 @@ plugins=(
 )
 
 # zsh-autosuggestions
-ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE="fg=#ff00ff,bg=cyan,bold,underline"
 ZSH_AUTOSUGGEST_STRATEGY=(history)
 bindkey '^ ' autosuggest-accept
 
 source $ZSH/oh-my-zsh.sh
 
 # User configuration
-
-# zsh-autosuggestions
-ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE="fg=#ff00ff,bg=cyan,bold,underline"
-ZSH_AUTOSUGGEST_STRATEGY=(history completion)
-bindkey '^ ' autosuggest-accept
-
 
 # export MANPATH="/usr/local/man:$MANPATH"
 
