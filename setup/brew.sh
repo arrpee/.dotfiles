@@ -29,6 +29,8 @@ brew tap homebrew/cask-fonts
 brew install --cask font-fira-code-nerd-font
 brew install --cask font-hack-nerd-font
 
+# casks
+brew install --cask visual-studio-code
 
 echo "Homebrew Cleanup..."
 # Cleanup
