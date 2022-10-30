@@ -12,5 +12,6 @@
     "workbench.startupEditor": "none",
     "terminal.integrated.shellIntegration.decorationsEnabled": "never",
     "workbench.iconTheme": "material-icon-theme",
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "workbench.colorTheme": "Arrpee"
 }

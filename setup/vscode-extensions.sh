@@ -1,4 +1,5 @@
 pkglist=(
+  Arrpee.arrpee-theme
   ms-python.python
   foxundermoon.shell-format
   VisualStudioExptTeam.vscodeintellicode
