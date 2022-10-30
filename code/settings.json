@@ -8,5 +8,8 @@
     "terminal.integrated.persistentSessionReviveProcess": "never",
     "explorer.confirmDelete": false,
     "git.confirmSync": false,
-    "git.autofetch": true
+    "git.autofetch": true,
+    "workbench.startupEditor": "none",
+    "terminal.integrated.shellIntegration.decorationsEnabled": "never",
+    "workbench.iconTheme": "material-icon-theme"
 }
