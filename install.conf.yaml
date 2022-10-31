@@ -13,6 +13,9 @@
   - command: setup/brew.sh
     description: Installing homebrew packages
     stdout: false
+  - command: setup/iterm2.sh
+    description: Setting iterm2 preferences path
+    stdout: false
   - command: setup/vscode-extensions.sh
     description: Installing Visual Studio Code extensions
     stdout: false
