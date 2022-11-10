@@ -17,5 +17,11 @@
     "gitlens.codeLens.enabled": false,
     "projectManager.git.baseFolders": [
         "~/Projects"
-    ]
+    ],
+    "notebook.lineNumbers": "on",
+    "notebook.cellFocusIndicator": "border",
+    "notebook.diff.ignoreOutputs": true,
+    "jupyter.askForKernelRestart": false,
+    "python.formatting.provider": "black",
+    "extensions.ignoreRecommendations": true
 }
