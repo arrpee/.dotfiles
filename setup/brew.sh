@@ -23,6 +23,7 @@ brew install exa                       # modern replacement for ls
 brew install fd                        # find but fast and user-friendly
 brew install fzf                       # command-line fuzzy finder
 $(brew --prefix)/opt/fzf/install --all # fzf keybindings and fuzzy completion
+brew install git-lfs                   # git extension for versioning large files
 brew install jq                        # command-line JSON processor
 brew install ripgrep                   # faster version of grep with more features
 brew install shellcheck                # shell script static analysis tool
