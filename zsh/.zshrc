@@ -72,6 +72,7 @@ ZSH_CUSTOM=~/.dotfiles/zsh
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
     git
+    poetry
     virtualenv
     zsh-autosuggestions
     zsh-syntax-highlighting
