@@ -1,6 +1,8 @@
 pkglist=(
   Arrpee.arrpee-theme
+  dbaeumer.vscode-eslint
   ms-python.python
+  esbenp.prettier-vscode
   foxundermoon.shell-format
   VisualStudioExptTeam.vscodeintellicode
   MS-vsliveshare.vsliveshare-pack
