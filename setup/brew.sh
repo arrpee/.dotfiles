@@ -25,6 +25,7 @@ brew install fzf                       # command-line fuzzy finder
 $(brew --prefix)/opt/fzf/install --all # fzf keybindings and fuzzy completion
 brew install git-lfs                   # git extension for versioning large files
 brew install jq                        # command-line JSON processor
+brew install postgresql                # postgresql good database
 brew install ripgrep                   # faster version of grep with more features
 brew install shellcheck                # shell script static analysis tool
 brew install shfmt                     # shell script formatter
@@ -38,6 +39,7 @@ brew install --cask font-hack-nerd-font
 # casks
 brew install --cask iterm2
 brew install --cask visual-studio-code
+brew install --cask raycast
 
 echo "Homebrew Cleanup..."
 # Cleanup
